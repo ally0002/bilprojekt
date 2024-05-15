@@ -5,3 +5,7 @@ h2 {
 * {
   background-color: black;
 }
+
+/*når man skal hente en anden perosns kode skal man trykke pull og når man selv skal ligge kode op skal man trykke push
+nemmeste hvis vi har hver vores side at arbejde på så vi ved hvad der sker
+normalt abrjeder man ikke i master men man arbjeder med branchs*/
